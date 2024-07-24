@@ -6,6 +6,7 @@ import { QrCodeScanner } from "./components/Scan/QrCodeScanner";
 
 import { ScanHistory } from "./components/ScanHistory";
 import { GenerateHistory } from "./components/GenerateHistory";
+//изменения
 
 const Layout = () => {
   return (
